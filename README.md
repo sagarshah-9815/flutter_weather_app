@@ -76,6 +76,12 @@ lib/
     └── home_screen.dart
 ```
 
+<img src="https://github.com/user-attachments/assets/ae6573ca-8911-43fa-b070-32fa27701d82" alt="Screenshot_20250513-181036" width="300">
+<img src="https://github.com/user-attachments/assets/1d89a5dd-6927-49bd-ab36-91b2fb48a722" alt="Screenshot_20250513-181334" width="300">
+<img src="https://github.com/user-attachments/assets/18163035-a358-460d-b6ab-4e136ea38664" alt="Screenshot_20250513-181010" width="300">
+<img src="https://github.com/user-attachments/assets/ab3fed78-2717-40b2-b485-097a3e6d8de0" alt="1747148589430" width="300">
+
+
 ## Getting Started
 
 1. Get an API key from [WeatherAPI.com](https://www.weatherapi.com/)

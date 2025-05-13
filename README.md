@@ -85,13 +85,8 @@ lib/
 ## Getting Started
 
 1. Get an API key from [WeatherAPI.com](https://www.weatherapi.com/)
-2. Add your API key to the `.env` file
-3. Run the app using `flutter run`
+2. Run the app using `flutter run`
 
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

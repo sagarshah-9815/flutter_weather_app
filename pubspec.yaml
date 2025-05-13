@@ -1,0 +1,48 @@
+name: weather_app
+description: A beautiful weather app with widgets and notifications
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  weather_animation: ^1.1.2
+  flex_color_scheme: ^8.2.0
+  redacted: ^1.0.13
+  flutter_native_splash: ^2.4.6
+  home_widget: ^0.7.0+1
+  elegant_notification: ^2.5.1
+  http: ^1.1.0
+  geolocator: ^10.0.0
+  shared_preferences: ^2.2.0
+  intl: ^0.18.1
+  flutter_dotenv: ^5.1.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - .env
+
+flutter_native_splash:
+  color: "#42a5f5"
+  image: assets/splash.png
+  android: true
+  ios: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon.png"
+  remove_alpha_ios: true
